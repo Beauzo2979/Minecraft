@@ -1,0 +1,1 @@
+If you want to play Minecraft then just go to the `Minecraft.html` file, and click the download button (if you hover over it it'll say `download raw`) once you've done that then just double click the file and you can play!
